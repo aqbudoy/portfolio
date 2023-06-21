@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.fce39fb8.css",
-    "main.js": "/portfolio/static/js/main.d3e5c590.js",
+    "main.css": "/portfolio/static/css/main.b37e8f8c.css",
+    "main.js": "/portfolio/static/js/main.53d9927a.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/miscellaneous_content.mp4": "/portfolio/static/media/miscellaneous_content.431863951af56f74bc00.mp4",
     "static/media/icfp_content.pdf": "/portfolio/static/media/icfp_content.0aaad5fe4b41df723d2f.pdf",
@@ -17,6 +17,12 @@
     "static/media/wallpaper_9.jpg": "/portfolio/static/media/wallpaper_9.b66a860e26bcf5acc191.jpg",
     "static/media/woop_customer_3.jpg": "/portfolio/static/media/woop_customer_3.975a204808373d33d758.jpg",
     "static/media/playlist_2.jpg": "/portfolio/static/media/playlist_2.c9ac024f40b467857d59.jpg",
+    "static/media/id_designer.png": "/portfolio/static/media/id_designer.887e11c277a562f055f1.png",
+    "static/media/id_developer.png": "/portfolio/static/media/id_developer.875ceb39da95cfe92c62.png",
+    "static/media/id_background_designer.jpg": "/portfolio/static/media/id_background_designer.52dd5b4056d7dac49539.jpg",
+    "static/media/id_initial.png": "/portfolio/static/media/id_initial.81dedf572d89a55bbbce.png",
+    "static/media/id_hover.png": "/portfolio/static/media/id_hover.7a2df5510402e1248d10.png",
+    "static/media/id_background_developer.jpg": "/portfolio/static/media/id_background_developer.d47f84b66263186d0b9e.jpg",
     "static/media/asiawise_math_2.jpg": "/portfolio/static/media/asiawise_math_2.410eefd1f6da2c2a151d.jpg",
     "static/media/playlist_1.jpg": "/portfolio/static/media/playlist_1.41b0c5805481d8f92be5.jpg",
     "static/media/roll_4.jpg": "/portfolio/static/media/roll_4.2c2ba6df6a0ed32afc00.jpg",
@@ -84,7 +90,6 @@
     "static/media/capstone_3.jpg": "/portfolio/static/media/capstone_3.13f18f675d0931d07da4.jpg",
     "static/media/woop_web_2.jpg": "/portfolio/static/media/woop_web_2.bbcdffaf8c65a8469681.jpg",
     "static/media/woop_assets_mini.png": "/portfolio/static/media/woop_assets_mini.582ad1fc7a11b22d8df3.png",
-    "static/media/photo.jpg": "/portfolio/static/media/photo.22ac589d6b51bdd7fc47.jpg",
     "static/media/capstone_2.jpg": "/portfolio/static/media/capstone_2.58fb9cff4a4764f9973f.jpg",
     "static/media/capstone_9.jpg": "/portfolio/static/media/capstone_9.e4d7f1e7449d05bb6333.jpg",
     "static/media/asiawise_banner_3.jpg": "/portfolio/static/media/asiawise_banner_3.96d4d0422de20a8b0df1.jpg",
@@ -108,16 +113,18 @@
     "static/media/Oswald-Light.ttf": "/portfolio/static/media/Oswald-Light.0db1d0c56bdf030d9f31.ttf",
     "static/media/Oswald-Regular.ttf": "/portfolio/static/media/Oswald-Regular.e815068d369177121fd8.ttf",
     "static/media/boot_1.jpg": "/portfolio/static/media/boot_1.859203034dd4378b862f.jpg",
+    "static/media/BebasNeue-Regular.ttf": "/portfolio/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
     "static/media/logo.png": "/portfolio/static/media/logo.aed503f48600d90e2eee.png",
+    "static/media/id_background_initial.jpg": "/portfolio/static/media/id_background_initial.f07ff1dd338ba4382705.jpg",
     "static/media/boot_4.jpg": "/portfolio/static/media/boot_4.cef8fd1a2f54f9abf081.jpg",
     "static/media/woop_assets_featuresbackground.png": "/portfolio/static/media/woop_assets_featuresbackground.3eb7e149f151b56fc229.png",
     "index.html": "/portfolio/index.html",
-    "main.fce39fb8.css.map": "/portfolio/static/css/main.fce39fb8.css.map",
-    "main.d3e5c590.js.map": "/portfolio/static/js/main.d3e5c590.js.map",
+    "main.b37e8f8c.css.map": "/portfolio/static/css/main.b37e8f8c.css.map",
+    "main.53d9927a.js.map": "/portfolio/static/js/main.53d9927a.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fce39fb8.css",
-    "static/js/main.d3e5c590.js"
+    "static/css/main.b37e8f8c.css",
+    "static/js/main.53d9927a.js"
   ]
 }
